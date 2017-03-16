@@ -2,4 +2,4 @@ name: run-playbook
 summary: Interface for relating to Ansible
 version: 1
 maintainer: "<root@example.com>"
-repo: /home/vagrant/charms/interfaces/run-playbook
+repo: https://github.com/aleksandr-kazakov/interface-run-playbook.git
